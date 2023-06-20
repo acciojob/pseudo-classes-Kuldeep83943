@@ -3,13 +3,14 @@
 :root{
 	background-color:skyblue;
 }
+
+p:nth-child(4){
+	color:red;
+}
+
 p:first-child{
 	background-color:black;
 	color:white;
-}
-
-p:last-child{
-	color:red;
 }
 
 li:first-child{
