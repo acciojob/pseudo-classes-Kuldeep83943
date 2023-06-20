@@ -13,10 +13,10 @@ p:last-child{
 }
 
 li:first-child{
-	background-color:white;
+	background-color:rgb(255, 0, 0);
 }
 li:last-child{
-	background-color:white;
+	background-color:rgb(255, 0, 0);
 }
 
 li:nth-child(2){
